@@ -1,9 +1,9 @@
 # An Analysis of Kickstarter Campaigns
 
 ## Description of Project
-   The following Data Analysis was performed to help Louise, an upcoming Playwrite, to decide on a 
+   The following Data Analysis was performed to help Louise, an upcoming Playwright, to decide on a 
    plan of action to successfully set up a Crowd Funding campaign for her play Fever.  I have researched
-   data for her and come up with trends and statististics that, if implemented could help her succeed in 
+   data for her and come up with trends and statistics that, if implemented could help her succeed in 
    this campaign.
   ---
  ## Statistics on Theater Kickstarter Campaigns
@@ -14,8 +14,8 @@
     ---
     ![Sub-Category Statistics] (Subcategory_Statistics.png)
     ---
-    * The subcategory, Plays under Theater are just about 2x more successful than not. So Louise, you are
-      right on track with wanting to start a Crowd Funding campaign for your play Fever.
+    * The subcategory, Plays under Theater are just about 2 times more successful than not. So Louise, you are
+      right on track with wanting to start a Crowd Funding campaign for your play, Fever.
     ---
     ![Outcomes Based on Launch Date] (Outcomes_Based_on_Launch_date.png)
     ---

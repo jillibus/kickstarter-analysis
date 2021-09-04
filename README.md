@@ -18,7 +18,7 @@
       The subcategory, Plays under Theater are just about 2 times more successful than not. So Louise, 
       you are right on track with wanting to start a Crowd Funding campaign for your play, Fever.
     
-    ### Kickstarter Outcomes Based on Start Date - ![Kickstarter Outcomes](https://github.com/jillibus/kickstarter-analysis/blob/main/.png)
+    ### Kickstarter Outcomes Based on Start Date - ![Kickstarter Outcomes](https://github.com/jillibus/kickstarter-analysis/blob/main/Outcomes_Based_on_Launch_Date.png)
     
       The most successful Plays with a Kickstarter campaign, launch in the month of May. The statistics are 
       over 90%!!! That is a definite must for you to schedule your campaign to kick off in May.

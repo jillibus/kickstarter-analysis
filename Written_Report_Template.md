@@ -19,6 +19,7 @@ calculating the goals and pledges hard to group together when analyzing.
 The outcomes were definitely apparent in this area of analysis. Cancellations are 
 very low for plays, so this is a good sign.  In all areas of Kickstarter
 campaigns, plays do well overall and succeed every month more than they fail.
+![Outcomes based on Launch Date](resources/Theater_Outcomes_by_Launch_Date.png)
 
 ### Analysis of Outcomes Based on Goals
 The outcomes fluctuated with the success and failure based on the goals for 
@@ -27,52 +28,62 @@ goal. The closer they came to $20,000 and above the more risk of failure they
 became.  There was a sweet spot around the $35,000 to $45,000 range that
 seemed to succeed, but I do feel that is more for a larger city than a rural
 town.
+![Outcomes based on Goals](resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 Data Analysis does leave out details of who the playwright is, and are they 
 well known, do they have a large following, or large private financial backer.
-These items will skew any analysis, and those can be in the dataset.  Some
+These items will skew any analysis, and those can be in the data set.  Some
 of these failures could also be due to reasons beyond the persons control, and
 they didn't want to cancel it and their financial backers failed to come through
 at the last minute. 
 
 ## Results
 
-- Based on what I observed, the best month to kick off your campaign is 
+1. Based on what I observed, the best month to kick off your campaign is 
 definitely May, with the number succeeding was 111 to only 52 failing, so more
 than double. You definitely want to choose this, even if you have to wait
 6 months or more to start.
 
-- Second to that is February, where the number succeeding was 71 to 39 failing, 
-was almost double in the success column.  If you can't start in May, then I 
-would recommend you to start your kick off campaign in February.
+2. Second to that is February, where the number succeeding was 71 to 39 failing, 
+was almost double in the success column.  If you can't start in May, and you
+really can't wait, then I would recommend you to start your kick off campaign
+in February.
 
-- The data set I used definitely gave me hope for your play to succeed with
+3. The data set I used definitely gave me hope for your play to succeed with
 a Kickstarter Campaign. Having a $10,000 budget fell within the successful
 area of campaigns. It was just under 50% but it was definitely more than the
 failures. So working with other local artisans that can also help with the
-play and promote the campaign as well as a member of the campaign can 
+play and promote the campaign, as well as a member of the campaign, can 
 potentially lower your costs and increase your exposure to patrons.
 
-- The data set had some limitations, in which, I could not determine if this
-play was for a community theater, a traveling theater group with a group of
+4. The data set had some limitations, in which, I could not determine if a
+play was for a community theater, a traveling theater group, with a group of
 artisans for the summer or for a play trying to make it on Broadway.  There
 was no indication if the playwright was presenting their first play, or
-hoping to produce their very first or their 100th play.   These factors will
-definitely change the chances of the success or failure of the outcome.
+someone hoping to produce their very first or their 100th play.   These 
+factors will definitely change the chances of the success or failure of 
+the outcome.
 
-- The data set had some other options we could analyze to see if it made a
+5. The data set had some other options we could analyze to see if it made a
 difference in the success or failure of the campaign.  
 
--- We could definitely could have seen the progression of success or failure 
-over the years.  This could tell us if in certain years how plays have done.  
-The trend could be going up or down, due to economic issues or world events 
-during that time.
+a. We could look at the progression of success or failure over the years.  
+This could tell us if in certain years how plays have done.  The trend could 
+be going up or down, due to economic issues or world events during that time.
 
--- We could analyze how the the plays that the staff picked did, the organization
-that kept up with this data, had their favorites, so it would be curious
-to see how their favorites actually faired during their kickstarter campaign.
+b. We could analyze how the plays that the staff picked performed. How did their 
+favorites do? It would be curious to know from those who have seen many a
+play how their favorites actually faired during their kickstarter campaign.
 
--- We could look at the success and failure of the campaigns by the number of
+c. We could look at the success and failure of the campaigns by the number of
 backers.  It would be curious to know if the ones with the most backers 
 succeeded or failed.
+
+I truly believe the more information we know, the better you can make an
+informed decision on how you can proceed with succeeding in your Kickstarter
+campaign for your play Fever.
+
+Thanks for the opportunity to provide this analysis for you.
+
+Jill Hughes

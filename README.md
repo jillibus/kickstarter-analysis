@@ -22,7 +22,7 @@
     * The most successful Plays with a Kickstarter campaign, launch in the month of May. The statistics are over 90%!!!
       That is a definite must for you to schedule your campaign to kick off in May.
     ---
-    ![GB Musicals](GB_Musicals.png)
+    ![GB Musicals](https://github.com/jillibus/kickstarter-analysis/blob/main/GB_Musicals.png)
     ---
     * Looking at the mean goal of the Kickstarter Campaigns in Great Britain, it was 4,000 pounds (or $5543), and that was much
       more than anyone was able to pledge.  Even researching Kickstarter Campaigns in the US, the mean goal was only 

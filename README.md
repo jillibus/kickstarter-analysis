@@ -7,22 +7,23 @@
    this campaign.
   
  ## Statistics on Theater Kickstarter Campaigns
-    ![Category Statistics](Category_Statistics.png)
     
-    * As you can see, Theater Kickstarter Campaigns 1.5x more likely to succeed than fail, so it does show with the
+    ### Theater Category Statistics - ![Category Statistics](../blob/main/Category_Statistics.png)
+    
+    * As you can see, Theater Kickstarter Campaigns are 1.5x more likely to succeed than fail, so it does show with the
       right play, you can get the funding you need to succeed.
     
-    ![Sub-Category Statistics](Subcategory_Statistics.png)
+    ### Plays Statistics - ![Plays Statistics](../blob/main/Subcategory_Statistics.png)
     
     * The subcategory, Plays under Theater are just about 2 times more successful than not. So Louise, you are
       right on track with wanting to start a Crowd Funding campaign for your play, Fever.
     
-    ![Outcomes Based on Launch Date](Outcomes_Based_on_Launch_date.png)
+    ### Kickstarter Outcomes Based on Start Date - ![Kickstarter Outcomes](Outcomes_Based_on_Launch_date.png)
     
     * The most successful Plays with a Kickstarter campaign, launch in the month of May. The statistics are over 90%!!!
       That is a definite must for you to schedule your campaign to kick off in May.
     
-    ![GB Musicals](https://github.com/jillibus/kickstarter-analysis/blob/main/GB_Musicals.png)
+    ### Great Britian Muscials - ![GB Musicals](../blob/main/GB_Musicals.png)
     
     * Looking at the mean goal of the Kickstarter Campaigns in Great Britain, it was 4,000 pounds (or $5543), and that was much
       more than anyone was able to pledge.  Even researching Kickstarter Campaigns in the US, the mean goal was only 

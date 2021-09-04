@@ -33,7 +33,7 @@
     
    ![GB Musicals](GB_Musicals.png)
     
-   Looking at the mean goal of the Kickstarter Campaigns in Great Britain, it was 4,000 pounds (or $5543), 
+   Looking at the mean goal of the Kickstarter Campaigns in Great Britain, it was 4,000 pounds (or $5,543), 
    and that was much more than anyone was able to pledge.  Even researching Kickstarter Campaigns in the US, 
    the mean goal was only $5,049 (or 3,643 pounds) so lower than the goal of the Great Britain mean goal.  
    This is concerning as your cost estimates are over $10,000.  

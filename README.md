@@ -5,7 +5,7 @@
    plan of action to successfully set up a Crowd Funding campaign for her play Fever.  I have researched
    data for her and come up with trends and statistics that, if implemented could help her succeed in 
    this campaign.
-  ---
+  
  ## Statistics on Theater Kickstarter Campaigns
     ![Category Statistics](Category_Statistics.png)
     ---
